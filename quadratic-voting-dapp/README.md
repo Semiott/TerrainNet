@@ -104,7 +104,3 @@ https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca
 ## Future Additions
 This contract is still a work in progress. The near-future plans include improving the voter whitelisting process using zkSNARKS, further limiting the power of election creators and the contract owner, and implementing a secondary voting process by which approved voters in an election can anonymously vote on whether the election creator has created fair terms for the poll and decide whether to participate as a group.
 
-
-Thank you for checking out this project! Please feel free contact me with any questions, comments, suggestions, or criticisms.
-
--Nick
