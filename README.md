@@ -1,11 +1,11 @@
 # Summary
 Post Pandemic Climate Conservation System using Quadratic Voting Verifiers
 
-# Concepts
+# Overview
 - Quadratic Voting for Climate Conservation
 - Quadratic Voting Verifiers using Cryptography
 
-# Fundamentals
+# Concepts
 
 ## Quadratic Voting
 
